@@ -79,21 +79,17 @@ def update_dashboard(selected_region, selected_date, selected_category):
         filtered_df = filtered_df[filtered_df['Date'] == target_date]
         date_text = selected_date
         
-    # 3. Filter by Category (Chained safely onto the filtered dataframe)
     if selected_category != 'ALL':
         filtered_df = filtered_df[filtered_df['Category'] == selected_category]
         category_text = selected_category
 
-    # Build dynamic title
     title_text = f'Revenue for {region_text} | Category: {category_text} | Date: {date_text}'
         
-    # Handle empty states defensively
     if filtered_df.empty:
         fig = px.bar(title="No data available for this filter combination.")
         fig.update_layout(template='plotly_white')
         return fig
 
-    # 4. Create chart
     fig = px.bar(
         filtered_df, 
         x='Date', 
