@@ -85,6 +85,7 @@ app.layout = html.Div([
 )
 #the app callback is a decorator that registers the relationship, when one of the inputs get updated and changed by user input it, it will change the output based on the input.
 def update_dashboard(selected_region, selected_date, selected_category):
+    #this will update the dashboard by selecting the filters you choose, or rather lack of filters, in which case it displays all data with plotly 
     filtered_df = df.copy()
     if selected_region != 'ALL':
         filtered_df = filtered_df[filtered_df['Region'] == selected_region]
@@ -122,6 +123,7 @@ def update_dashboard(selected_region, selected_date, selected_category):
 
 if __name__ == '__main__':
     app.run(debug=True)
+    #this is used for setting up the flask server, which dash uses. this is done to ensure that the server only starts when directly set up on my system. 
 
     """
     verion 3.0 
