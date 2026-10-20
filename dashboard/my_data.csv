@@ -1,0 +1,279 @@
+Date,Region,Category,Product,Revenue,UnitsSold
+2026-09-01,North,Electronics,SmartPhone X,1053,15
+2026-09-01,North,Home,Espresso Machine,704,9
+2026-09-01,North,Electronics,UltraBook Pro,1650,12
+2026-09-01,North,Home,Smart Thermostat,226,23
+2026-09-01,North,Electronics,Noise-Canceling Pods,547,22
+2026-09-01,North,Clothing,Merino Wool Tee,98,26
+2026-09-01,South,Electronics,SmartPhone X,1327,15
+2026-09-01,South,Electronics,Noise-Canceling Pods,425,23
+2026-09-01,South,Home,Smart Thermostat,287,22
+2026-09-01,South,Electronics,UltraBook Pro,1349,12
+2026-09-01,South,Clothing,Waterproof Shell,350,12
+2026-09-01,East,Home,Espresso Machine,1080,8
+2026-09-01,East,Clothing,Waterproof Shell,317,12
+2026-09-01,East,Electronics,SmartPhone X,1098,16
+2026-09-01,East,Electronics,Noise-Canceling Pods,513,26
+2026-09-01,East,Electronics,UltraBook Pro,1824,10
+2026-09-01,East,Clothing,Merino Wool Tee,109,26
+2026-09-01,West,Electronics,Noise-Canceling Pods,578,27
+2026-09-01,West,Electronics,UltraBook Pro,1904,13
+2026-09-01,West,Clothing,Merino Wool Tee,120,35
+2026-09-01,West,Clothing,Waterproof Shell,270,13
+2026-09-01,West,Electronics,SmartPhone X,987,16
+2026-09-02,North,Home,Espresso Machine,805,6
+2026-09-02,North,Electronics,Noise-Canceling Pods,363,24
+2026-09-02,North,Clothing,Waterproof Shell,319,13
+2026-09-02,North,Electronics,UltraBook Pro,1210,10
+2026-09-02,South,Clothing,Merino Wool Tee,123,34
+2026-09-02,South,Clothing,Waterproof Shell,392,14
+2026-09-02,South,Electronics,SmartPhone X,1017,17
+2026-09-02,South,Home,Espresso Machine,964,8
+2026-09-02,South,Home,Smart Thermostat,306,18
+2026-09-02,South,Electronics,UltraBook Pro,1620,11
+2026-09-02,East,Home,Smart Thermostat,331,19
+2026-09-02,East,Clothing,Waterproof Shell,339,14
+2026-09-02,East,Electronics,SmartPhone X,975,15
+2026-09-02,East,Clothing,Merino Wool Tee,89,31
+2026-09-02,East,Electronics,UltraBook Pro,1435,12
+2026-09-02,East,Electronics,Noise-Canceling Pods,564,22
+2026-09-02,West,Home,Espresso Machine,934,8
+2026-09-02,West,Electronics,SmartPhone X,1488,18
+2026-09-02,West,Electronics,UltraBook Pro,1421,10
+2026-09-02,West,Clothing,Waterproof Shell,329,13
+2026-09-03,North,Clothing,Merino Wool Tee,137,27
+2026-09-03,North,Clothing,Waterproof Shell,359,12
+2026-09-03,North,Electronics,UltraBook Pro,1464,11
+2026-09-03,North,Home,Smart Thermostat,247,20
+2026-09-03,North,Electronics,SmartPhone X,1250,19
+2026-09-03,South,Home,Espresso Machine,1093,9
+2026-09-03,South,Electronics,SmartPhone X,1111,17
+2026-09-03,South,Clothing,Merino Wool Tee,104,27
+2026-09-03,South,Home,Smart Thermostat,229,20
+2026-09-03,South,Electronics,UltraBook Pro,1577,9
+2026-09-03,East,Clothing,Merino Wool Tee,114,35
+2026-09-03,East,Home,Espresso Machine,782,8
+2026-09-03,East,Clothing,Waterproof Shell,377,13
+2026-09-03,East,Electronics,SmartPhone X,1396,17
+2026-09-03,West,Electronics,SmartPhone X,1152,15
+2026-09-03,West,Clothing,Waterproof Shell,262,15
+2026-09-03,West,Electronics,UltraBook Pro,1708,9
+2026-09-03,West,Clothing,Merino Wool Tee,116,26
+2026-09-03,West,Electronics,Noise-Canceling Pods,505,21
+2026-09-04,North,Home,Espresso Machine,768,8
+2026-09-04,North,Clothing,Waterproof Shell,367,13
+2026-09-04,North,Clothing,Merino Wool Tee,97,35
+2026-09-04,North,Electronics,Noise-Canceling Pods,476,22
+2026-09-04,South,Electronics,SmartPhone X,1163,16
+2026-09-04,South,Home,Smart Thermostat,325,23
+2026-09-04,South,Electronics,Noise-Canceling Pods,559,27
+2026-09-04,South,Electronics,UltraBook Pro,1681,10
+2026-09-04,East,Clothing,Merino Wool Tee,124,24
+2026-09-04,East,Electronics,UltraBook Pro,1320,12
+2026-09-04,East,Electronics,SmartPhone X,1375,19
+2026-09-04,East,Home,Smart Thermostat,255,21
+2026-09-04,East,Electronics,Noise-Canceling Pods,413,23
+2026-09-04,West,Electronics,SmartPhone X,1341,16
+2026-09-04,West,Clothing,Merino Wool Tee,120,35
+2026-09-04,West,Home,Smart Thermostat,292,23
+2026-09-04,West,Clothing,Waterproof Shell,325,14
+2026-09-04,West,Home,Espresso Machine,954,8
+2026-09-04,West,Electronics,UltraBook Pro,1848,10
+2026-09-05,North,Home,Espresso Machine,1079,9
+2026-09-05,North,Electronics,SmartPhone X,1508,17
+2026-09-05,North,Clothing,Merino Wool Tee,88,35
+2026-09-05,North,Home,Smart Thermostat,283,23
+2026-09-05,North,Electronics,UltraBook Pro,1922,13
+2026-09-05,North,Electronics,Noise-Canceling Pods,426,23
+2026-09-05,South,Home,Espresso Machine,1038,9
+2026-09-05,South,Clothing,Waterproof Shell,267,13
+2026-09-05,South,Clothing,Merino Wool Tee,124,28
+2026-09-05,South,Home,Smart Thermostat,259,18
+2026-09-05,South,Electronics,SmartPhone X,1153,20
+2026-09-05,South,Electronics,Noise-Canceling Pods,390,27
+2026-09-05,East,Clothing,Waterproof Shell,353,12
+2026-09-05,East,Electronics,UltraBook Pro,1203,12
+2026-09-05,East,Home,Smart Thermostat,251,16
+2026-09-05,East,Electronics,Noise-Canceling Pods,449,20
+2026-09-05,East,Home,Espresso Machine,1056,6
+2026-09-05,East,Electronics,SmartPhone X,1307,17
+2026-09-05,West,Clothing,Merino Wool Tee,103,31
+2026-09-05,West,Clothing,Waterproof Shell,260,12
+2026-09-05,West,Home,Smart Thermostat,339,18
+2026-09-05,West,Electronics,SmartPhone X,1036,18
+2026-09-05,West,Electronics,UltraBook Pro,1777,10
+2026-09-05,West,Electronics,Noise-Canceling Pods,500,20
+2026-09-06,North,Home,Smart Thermostat,296,18
+2026-09-06,North,Electronics,SmartPhone X,1437,16
+2026-09-06,North,Electronics,UltraBook Pro,1529,9
+2026-09-06,North,Clothing,Merino Wool Tee,89,35
+2026-09-06,South,Electronics,Noise-Canceling Pods,565,24
+2026-09-06,South,Electronics,SmartPhone X,1103,15
+2026-09-06,South,Clothing,Merino Wool Tee,98,35
+2026-09-06,South,Home,Espresso Machine,951,8
+2026-09-06,South,Clothing,Waterproof Shell,361,14
+2026-09-06,South,Electronics,UltraBook Pro,1747,9
+2026-09-06,East,Clothing,Waterproof Shell,263,12
+2026-09-06,East,Home,Smart Thermostat,343,21
+2026-09-06,East,Electronics,SmartPhone X,1244,15
+2026-09-06,East,Home,Espresso Machine,888,7
+2026-09-06,East,Electronics,UltraBook Pro,1329,11
+2026-09-06,West,Electronics,UltraBook Pro,1480,12
+2026-09-06,West,Electronics,Noise-Canceling Pods,473,28
+2026-09-06,West,Home,Espresso Machine,959,6
+2026-09-06,West,Clothing,Waterproof Shell,267,15
+2026-09-06,West,Clothing,Merino Wool Tee,89,31
+2026-09-06,West,Home,Smart Thermostat,355,20
+2026-09-07,North,Electronics,SmartPhone X,1452,18
+2026-09-07,North,Home,Smart Thermostat,338,21
+2026-09-07,North,Home,Espresso Machine,767,7
+2026-09-07,North,Clothing,Merino Wool Tee,99,28
+2026-09-07,North,Electronics,UltraBook Pro,1229,12
+2026-09-07,South,Home,Smart Thermostat,271,18
+2026-09-07,South,Electronics,Noise-Canceling Pods,471,26
+2026-09-07,South,Clothing,Waterproof Shell,311,17
+2026-09-07,South,Home,Espresso Machine,696,7
+2026-09-07,South,Clothing,Merino Wool Tee,141,30
+2026-09-07,South,Electronics,SmartPhone X,1214,18
+2026-09-07,East,Clothing,Merino Wool Tee,119,34
+2026-09-07,East,Home,Espresso Machine,918,7
+2026-09-07,East,Home,Smart Thermostat,319,21
+2026-09-07,East,Electronics,SmartPhone X,1102,17
+2026-09-07,East,Clothing,Waterproof Shell,341,14
+2026-09-07,East,Electronics,Noise-Canceling Pods,447,22
+2026-09-07,West,Electronics,SmartPhone X,1014,16
+2026-09-07,West,Electronics,Noise-Canceling Pods,573,29
+2026-09-07,West,Clothing,Merino Wool Tee,119,31
+2026-09-07,West,Home,Smart Thermostat,286,18
+2026-09-07,West,Home,Espresso Machine,819,8
+2026-09-07,West,Clothing,Waterproof Shell,376,16
+2026-09-08,North,Electronics,Noise-Canceling Pods,584,20
+2026-09-08,North,Electronics,UltraBook Pro,1752,12
+2026-09-08,North,Clothing,Waterproof Shell,368,17
+2026-09-08,North,Electronics,SmartPhone X,1372,20
+2026-09-08,South,Electronics,Noise-Canceling Pods,544,27
+2026-09-08,South,Electronics,UltraBook Pro,1261,10
+2026-09-08,South,Electronics,SmartPhone X,1551,17
+2026-09-08,South,Clothing,Waterproof Shell,315,16
+2026-09-08,East,Home,Espresso Machine,715,8
+2026-09-08,East,Electronics,Noise-Canceling Pods,485,24
+2026-09-08,East,Electronics,SmartPhone X,1503,15
+2026-09-08,East,Clothing,Waterproof Shell,334,12
+2026-09-08,East,Clothing,Merino Wool Tee,113,24
+2026-09-08,East,Electronics,UltraBook Pro,1289,10
+2026-09-08,West,Clothing,Merino Wool Tee,108,27
+2026-09-08,West,Clothing,Waterproof Shell,394,13
+2026-09-08,West,Electronics,SmartPhone X,1537,14
+2026-09-08,West,Home,Espresso Machine,1092,6
+2026-09-09,North,Home,Smart Thermostat,301,23
+2026-09-09,North,Electronics,SmartPhone X,1273,18
+2026-09-09,North,Electronics,UltraBook Pro,1721,11
+2026-09-09,North,Clothing,Waterproof Shell,356,15
+2026-09-09,South,Home,Smart Thermostat,238,18
+2026-09-09,South,Home,Espresso Machine,752,8
+2026-09-09,South,Clothing,Merino Wool Tee,109,26
+2026-09-09,South,Electronics,SmartPhone X,1119,16
+2026-09-09,South,Clothing,Waterproof Shell,297,14
+2026-09-09,South,Electronics,Noise-Canceling Pods,367,22
+2026-09-09,East,Electronics,SmartPhone X,1506,20
+2026-09-09,East,Electronics,Noise-Canceling Pods,573,27
+2026-09-09,East,Electronics,UltraBook Pro,1660,11
+2026-09-09,East,Home,Espresso Machine,1076,9
+2026-09-09,West,Clothing,Waterproof Shell,316,16
+2026-09-09,West,Home,Smart Thermostat,279,22
+2026-09-09,West,Electronics,Noise-Canceling Pods,488,20
+2026-09-09,West,Electronics,SmartPhone X,982,15
+2026-09-10,North,Electronics,SmartPhone X,1409,20
+2026-09-10,North,Electronics,Noise-Canceling Pods,491,27
+2026-09-10,North,Clothing,Merino Wool Tee,129,28
+2026-09-10,North,Electronics,UltraBook Pro,1380,10
+2026-09-10,South,Home,Smart Thermostat,318,20
+2026-09-10,South,Electronics,UltraBook Pro,1468,10
+2026-09-10,South,Electronics,SmartPhone X,1362,18
+2026-09-10,South,Clothing,Waterproof Shell,379,15
+2026-09-10,East,Electronics,Noise-Canceling Pods,450,21
+2026-09-10,East,Electronics,UltraBook Pro,1221,13
+2026-09-10,East,Home,Smart Thermostat,310,21
+2026-09-10,East,Electronics,SmartPhone X,1087,15
+2026-09-10,West,Electronics,Noise-Canceling Pods,458,29
+2026-09-10,West,Electronics,UltraBook Pro,1461,12
+2026-09-10,West,Clothing,Waterproof Shell,381,14
+2026-09-10,West,Clothing,Merino Wool Tee,122,34
+2026-09-10,West,Home,Smart Thermostat,356,17
+2026-09-11,North,Electronics,Noise-Canceling Pods,499,23
+2026-09-11,North,Home,Smart Thermostat,253,20
+2026-09-11,North,Home,Espresso Machine,825,8
+2026-09-11,North,Clothing,Merino Wool Tee,113,31
+2026-09-11,South,Electronics,SmartPhone X,1484,18
+2026-09-11,South,Electronics,Noise-Canceling Pods,578,26
+2026-09-11,South,Electronics,UltraBook Pro,1367,13
+2026-09-11,South,Clothing,Merino Wool Tee,106,28
+2026-09-11,South,Home,Smart Thermostat,228,20
+2026-09-11,South,Clothing,Waterproof Shell,341,14
+2026-09-11,East,Clothing,Merino Wool Tee,93,29
+2026-09-11,East,Clothing,Waterproof Shell,366,15
+2026-09-11,East,Electronics,Noise-Canceling Pods,395,23
+2026-09-11,East,Home,Espresso Machine,681,9
+2026-09-11,East,Home,Smart Thermostat,235,20
+2026-09-11,West,Electronics,UltraBook Pro,1546,13
+2026-09-11,West,Clothing,Merino Wool Tee,90,27
+2026-09-11,West,Electronics,Noise-Canceling Pods,520,28
+2026-09-11,West,Clothing,Waterproof Shell,337,15
+2026-09-11,West,Electronics,SmartPhone X,1024,17
+2026-09-11,West,Home,Espresso Machine,906,7
+2026-09-12,North,Home,Espresso Machine,1037,6
+2026-09-12,North,Electronics,UltraBook Pro,1601,10
+2026-09-12,North,Electronics,Noise-Canceling Pods,437,24
+2026-09-12,North,Electronics,SmartPhone X,1173,19
+2026-09-12,South,Home,Espresso Machine,734,7
+2026-09-12,South,Clothing,Merino Wool Tee,107,31
+2026-09-12,South,Electronics,UltraBook Pro,1628,11
+2026-09-12,South,Electronics,Noise-Canceling Pods,581,26
+2026-09-12,South,Electronics,SmartPhone X,1102,15
+2026-09-12,East,Electronics,UltraBook Pro,1330,13
+2026-09-12,East,Clothing,Merino Wool Tee,92,30
+2026-09-12,East,Home,Smart Thermostat,281,23
+2026-09-12,East,Electronics,SmartPhone X,1027,17
+2026-09-12,East,Electronics,Noise-Canceling Pods,578,28
+2026-09-12,West,Clothing,Merino Wool Tee,118,30
+2026-09-12,West,Clothing,Waterproof Shell,300,16
+2026-09-12,West,Home,Smart Thermostat,250,18
+2026-09-12,West,Electronics,SmartPhone X,1215,18
+2026-09-12,West,Electronics,Noise-Canceling Pods,414,21
+2026-09-13,North,Clothing,Waterproof Shell,332,15
+2026-09-13,North,Electronics,UltraBook Pro,1238,11
+2026-09-13,North,Electronics,Noise-Canceling Pods,390,20
+2026-09-13,North,Electronics,SmartPhone X,1553,16
+2026-09-13,North,Clothing,Merino Wool Tee,132,27
+2026-09-13,South,Clothing,Merino Wool Tee,121,33
+2026-09-13,South,Electronics,SmartPhone X,1024,20
+2026-09-13,South,Clothing,Waterproof Shell,375,14
+2026-09-13,South,Electronics,Noise-Canceling Pods,569,29
+2026-09-13,East,Home,Smart Thermostat,341,17
+2026-09-13,East,Clothing,Merino Wool Tee,131,26
+2026-09-13,East,Electronics,SmartPhone X,1058,15
+2026-09-13,East,Electronics,UltraBook Pro,1810,12
+2026-09-13,East,Home,Espresso Machine,902,7
+2026-09-13,West,Home,Espresso Machine,840,7
+2026-09-13,West,Clothing,Merino Wool Tee,104,32
+2026-09-13,West,Electronics,Noise-Canceling Pods,473,22
+2026-09-13,West,Clothing,Waterproof Shell,399,14
+2026-09-14,North,Home,Smart Thermostat,311,18
+2026-09-14,North,Electronics,UltraBook Pro,1304,13
+2026-09-14,North,Clothing,Waterproof Shell,355,15
+2026-09-14,North,Electronics,SmartPhone X,1496,20
+2026-09-14,North,Home,Espresso Machine,744,7
+2026-09-14,South,Home,Espresso Machine,889,8
+2026-09-14,South,Home,Smart Thermostat,238,20
+2026-09-14,South,Clothing,Merino Wool Tee,108,29
+2026-09-14,South,Electronics,SmartPhone X,1322,18
+2026-09-14,East,Electronics,Noise-Canceling Pods,504,26
+2026-09-14,East,Home,Smart Thermostat,299,18
+2026-09-14,East,Electronics,SmartPhone X,1167,15
+2026-09-14,East,Electronics,UltraBook Pro,1881,12
+2026-09-14,West,Clothing,Merino Wool Tee,95,25
+2026-09-14,West,Electronics,UltraBook Pro,1392,13
+2026-09-14,West,Home,Espresso Machine,932,6
+2026-09-14,West,Clothing,Waterproof Shell,403,16
+2026-09-14,West,Electronics,Noise-Canceling Pods,365,26
+2026-09-14,West,Electronics,SmartPhone X,1422,17

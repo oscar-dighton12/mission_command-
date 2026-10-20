@@ -1,0 +1,51 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.light-theme {
+    background-color: #FFFFFF;
+    color: #000000;
+    min-height: 100vh;
+    padding: 20px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.light-theme .dashboard-card {
+    background-color: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+}
+
+.dark-theme {
+    background-color: #121212;
+    color: #FFFFFF;
+    min-height: 100vh;
+    padding: 20px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark-theme .dashboard-card {
+    background-color: #1E1E1E;
+    border: 1px solid #333333;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.dark-theme .Select-control,
+.dark-theme .Select-menu-outer,
+.dark-theme .VirtualizedSelectFocusedOption {
+    background-color: #1E1E1E !important;
+    color: #FFFFFF !important;
+    border-color: #333333 !important;
+}
+
+.dark-theme .Select-value-label {
+    color: #FFFFFF !important;
+}
